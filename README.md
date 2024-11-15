@@ -28,3 +28,5 @@ This project is a Movie Recommendation System that helps users find movies based
 3.Run the Streamlit app using streamlit run app.py.
 
 This project demonstrates the basics of recommendation algorithms and provides a foundation for building more advanced recommendation systems.
+
+Link to the dataset used in this project (https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
